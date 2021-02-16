@@ -1,16 +1,16 @@
-02/02/21 - SCRAM #1
+02/02/21 - SCRUM #1
 -------------------------------------------------------------------------------
-- Discussed what a SCRAM is
+- Discussed what a SCRUM is
 - Made a timeline for assignment 3
 - Decided we need more info on UML in order to discuss further
 
-02/04/21 - SCRAM #2
+02/04/21 - SCRUM #2
 -------------------------------------------------------------------------------
 - Attended UML lecture
 - Discussed desired UML tools to use
 - Split up work accordingly and set our next meeting days
 
-02/09/21 - SCRAM #3
+02/09/21 - SCRUM #3
 -------------------------------------------------------------------------------
 -Discussed Presentation #2 with each other after 4111 lecture
 -Arranged meeting for Saturday 2/13 to work on Sprint #1
