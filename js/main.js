@@ -21,13 +21,16 @@
     [ Validate ]*/
     var input = $('.validate-input .input100');
 
-    $('.validate-form').on('submit',function(){
-        var check = true;
+	$('.validate-form').on('submit', function ()
+	{
+        var check = false;
 
-        for(var i=0; i<input.length; i++) {
-            if(validate(input[i]) == false){
+		for (var i = 0; i < input.length; i++)
+		{
+			if (validate(input[i]) == false)
+			{
                 showValidate(input[i]);
-                check=false;
+                //check=false;
             }
         }
 
