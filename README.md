@@ -1,5 +1,5 @@
 # WSU-Social
-Social media website that enables WSU students to connect with and interact with other WSU students.
+Social media application that enables WSU students to connect with and interact with other WSU students.
 # Functionality
 The functionality behind WSU Social is to have students create their personalized profile, with their interests and hobbies. The student can join and post in other organizations that were created by students at Wayne State, as well as post under their own profile.
 # Purpose
