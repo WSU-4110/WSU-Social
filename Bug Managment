@@ -11,8 +11,3 @@ Fix: Adjusting the login function solved the issue.
 4.Bug: Login button was double clicking causing issues.
 Fix: Disabling the button solved the issue.
 
-# Contributors
-<li>Griffin Schoenherr [Team Lead, Developer]</li>
-<li>Ibe Harb [Developer]</li>
-<li>Brendan Srour [Developer]</li>
-<li>Hussein Fakih [Developer]</li>
