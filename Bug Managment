@@ -11,3 +11,24 @@ Fix: Adjusting the login function solved the issue.
 4.Bug: Login button was double clicking causing issues.
 Fix: Disabling the button solved the issue.
 
+5.Bug: Display resolution was ver blury.
+Fix: 
+
+6.Bug: When you enter special characters, the log in function would crash.
+Fix: Adjusting the login function to deal with special characters solved the issue.
+
+7.Bug: Entering a special character in the authentication verification field caused the application to crash.
+Fix: Adjusting the login function to check special characters fixed the issues.
+
+8.Bug: Landscape mode wasn't functioning properly.
+Fix: Restoring the screen element, Activity solved the issue.
+
+9.Bug: Repeated comments when only commenting once.
+Fix: Adjusting the comment function solved the issue.
+
+10.Bug: Posts and comments are delayed.
+Fix: Adjusting the timezone solved the issue.
+
+11.Bug: Extremely slow response.
+Fix: Adjusting the amount of variables made, and the efficiency of the code solved the issue.
+
