@@ -12,7 +12,7 @@ Fix: Adjusting the login function solved the issue.
 Fix: Disabling the button solved the issue.
 
 5.Bug: Display resolution was ver blury.
-Fix: 
+Fix: Adjusting the scaling factor fixed the issue.
 
 6.Bug: When you enter special characters, the log in function would crash.
 Fix: Adjusting the login function to deal with special characters solved the issue.
