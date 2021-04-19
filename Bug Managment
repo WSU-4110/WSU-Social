@@ -1,9 +1,12 @@
 The bugs we encountered during this proejct:
 1. Bug: Incompatible plugins with build version for android studio.
 Fix: Downgrading the build version solved the issue.
+
 2. Bug: App screenshot upload was coming from wrong directory.
 Fix: Using individual user phone directory solved the issue.
+
 3.Bug: Application was allowing wrong email format.
 Fix: Adjusting the login function solved the issue.
+
 4.Bug: Login button was double clicking causing issues.
 Fix: Disabling the button solved the issue.
