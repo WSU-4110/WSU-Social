@@ -3,6 +3,7 @@ Social media application that enables WSU students to connect with and interact 
 # Requirements
 1. Android Studio
 2. Android Device
+3. TBD
 # Installation
 1. asdfghjk
 2. aSDFGHJKL
