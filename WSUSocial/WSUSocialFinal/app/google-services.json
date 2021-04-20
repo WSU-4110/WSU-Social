@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "596814288620",
+    "project_id": "wsusocial1",
+    "storage_bucket": "wsusocial1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596814288620:android:0cfce04e8dfc29d80d77c9",
+        "android_client_info": {
+          "package_name": "net.CSC4111.ourApp.WSUSocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596814288620-1qs77io0nkf0su2flh8qtau5lpdtovhg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-U80BsRHzgJS9SE9NpgaYfOoZh1-it_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596814288620-1qs77io0nkf0su2flh8qtau5lpdtovhg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

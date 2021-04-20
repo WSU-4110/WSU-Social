@@ -8,20 +8,20 @@
         "source": "C:\\Users\\iharb\\Downloads\\WSUSocial\\WSUSocialFinal\\app\\src\\main\\res\\drawable-xxhdpi\\ic_toggle_star_24.png"
     },
     {
-        "merged": "C:\\Users\\iharb\\Downloads\\WSUSocial\\WSUSocialFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_toggle_star_24.png.flat",
-        "source": "C:\\Users\\iharb\\Downloads\\WSUSocial\\WSUSocialFinal\\app\\src\\main\\res\\drawable-xhdpi\\ic_toggle_star_24.png"
-    },
-    {
-        "merged": "C:\\Users\\iharb\\Downloads\\WSUSocial\\WSUSocialFinal\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_new_post.xml.flat",
-        "source": "C:\\Users\\iharb\\Downloads\\WSUSocial\\WSUSocialFinal\\app\\src\\main\\res\\layout\\activity_new_post.xml"
+        "merged": "C:\\Users\\iharb\\Downloads\\WSUSocial\\WSUSocialFinal\\app\\build\\intermediates\\res\\merged\\debug\\layout_include_post_text.xml.flat",
+        "source": "C:\\Users\\iharb\\Downloads\\WSUSocial\\WSUSocialFinal\\app\\src\\main\\res\\layout\\include_post_text.xml"
     },
     {
         "merged": "C:\\Users\\iharb\\Downloads\\WSUSocial\\WSUSocialFinal\\app\\build\\intermediates\\res\\merged\\debug\\xml_file_paths.xml.flat",
         "source": "C:\\Users\\iharb\\Downloads\\WSUSocial\\WSUSocialFinal\\app\\src\\main\\res\\xml\\file_paths.xml"
     },
     {
-        "merged": "C:\\Users\\iharb\\Downloads\\WSUSocial\\WSUSocialFinal\\app\\build\\intermediates\\res\\merged\\debug\\layout_include_post_text.xml.flat",
-        "source": "C:\\Users\\iharb\\Downloads\\WSUSocial\\WSUSocialFinal\\app\\src\\main\\res\\layout\\include_post_text.xml"
+        "merged": "C:\\Users\\iharb\\Downloads\\WSUSocial\\WSUSocialFinal\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_new_post.xml.flat",
+        "source": "C:\\Users\\iharb\\Downloads\\WSUSocial\\WSUSocialFinal\\app\\src\\main\\res\\layout\\activity_new_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\iharb\\Downloads\\WSUSocial\\WSUSocialFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_toggle_star_24.png.flat",
+        "source": "C:\\Users\\iharb\\Downloads\\WSUSocial\\WSUSocialFinal\\app\\src\\main\\res\\drawable-xhdpi\\ic_toggle_star_24.png"
     },
     {
         "merged": "C:\\Users\\iharb\\Downloads\\WSUSocial\\WSUSocialFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_wsu.png.flat",

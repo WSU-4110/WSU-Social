@@ -4,9 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical">
-
-    <TextView
+    android:orientation="vertical"><TextView
         android:id="@+id/post_body"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -16,9 +14,7 @@
         android:maxLength="35"
         android:visibility="gone"
         android:layout_below="@+id/post_title"
-        android:layout_alignParentStart="true" />
-
-    <TextView
+        android:layout_alignParentStart="true" /><TextView
         android:id="@+id/post_title"
         style="@style/TextAppearance.AppCompat.Medium"
         android:layout_width="wrap_content"
@@ -30,6 +26,4 @@
         tools:text="@string/my_post_text"
         android:layout_alignParentTop="true"
         android:layout_alignParentStart="true"
-        android:layout_marginTop="@dimen/post_title_margin_top" />
-
-</RelativeLayout>
+        android:layout_marginTop="@dimen/post_title_margin_top" /></RelativeLayout>
