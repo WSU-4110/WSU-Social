@@ -1,29 +1,43 @@
-
-Stakeholders
-Requirements
-Wayne State University / Students
 FR1: Website initialization
+
 FR2: Login with User Authentication UI
+
 FR3: User Sign Up
+
 FR4: User Home Page
+
 FR5: User Searching 
+
 FR6: Bookmark
+
 FR7: Messaging / Posts
+
 FR8: Images
+
 FR9: Users can block or report other users/posts
+
 FR10: Users can delete conversations/posts
+
 FR11: Users can follow groups
+
 FR12: Users can request to be friends with other users
+
 FR13: Users can like and comment on posts
-Website host
+
 FR14: User Profile Page
+
 FR15: Sub-group web page
+
 FR16: The website can host images
-All
+
 NFR1: Performance
+
 NFR2: Usability
+
 NFR3: Security
+
 NFR4: Reliability
+
 NFR5: Privacy
 
 FR1.  Website Initialization
