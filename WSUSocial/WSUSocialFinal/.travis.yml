@@ -1,6 +1,0 @@
-language: java
-script: gradle test
-before_install:
-- chmod +x gradlew
-jdk:
-  - openjdk8
