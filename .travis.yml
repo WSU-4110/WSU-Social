@@ -1,1 +1,7 @@
-
+language: java
+script: gradle build
+script: gradle test
+before_install:
+ – chmod +x gradlew
+jdk:
+  - openjdk8
